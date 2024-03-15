@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SheepSenpai
 - 👀 I’m interested in Unity
 - 🌱 I’m currently learning Java
-- 📫 How to reach me Discord Turbo goes SUTUTUTU#9844, Skype yjindra@hotmail.com
+- 📫 How to reach me Discord: mrsh3ep, Skype: yjindra@hotmail.com
 
 <!---
 SheepSenpai/SheepSenpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
